@@ -1,12 +1,3 @@
-# SQL-NOSQL
-
-This is the code for our SEG2102: DATABASE MANAGEMENT SYSTEMS assignment titled: Performance Analysis of SQL vs NoSQL DBMS: A Comparative Study of Oracle Database and MongoDB
-
-There are two real-world datasets we obtained from Kaggle and used in our assignment
-
-Diabetes Dataset consists of approximately 100,000 records for large-scale performance evaluation.
-StressLevel Dataset consists of approximately 1,000  records for baseline performance and integrity testing
-
 
 SQL vs NoSQL Performance Comparison (Oracle APEX vs MongoDB)
 This repository contains the full set of scripts and code used for the Database Management Systems Final Assessment. The project compares performance, scalability, and data integrity between a SQL-based system (Oracle APEX) and a NoSQL-based system (MongoDB).
