@@ -18,8 +18,8 @@ BEGIN
     5, 4, 3,
     3, 2, 1, 0, 3
   );
-
   v_end := SYSTIMESTAMP;
   v_diff := v_end - v_start;
   DBMS_OUTPUT.PUT_LINE('Insert time: ' || v_diff);
 END;
+
